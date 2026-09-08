@@ -1,6 +1,6 @@
-# **An accessible wearable and machine learning-derived aging clock predicts future mortality and cardiometabolic risk**
+# **A wearable-derived aging clock enables out-of-clinic prediction of mortality and cardiometabolic risk** 
 
-This repository includes code to derive WearableAge and WearableAgeGap from the study *An accessible wearable and machine learning-derived aging clock predicts future mortality and cardiometabolic risk* by Sakal et al. (2026, under review). Synthetic data is provided in ```/data``` facilitate testing the code. 
+This repository includes code to derive WearableAge and WearableAgeGap from the study *A wearable-derived aging clock enables out-of-clinic prediction of mortality and cardiometabolic risk* by Sakal et al. (2026, under review). Synthetic data is provided in ```/data``` facilitate testing the code. 
 
 **Authors:** Collin Sakal** [1], Tong Chen [2], Wenxin Xu [2], Wei Zhang [3], Xinyue Li** [2]
 
